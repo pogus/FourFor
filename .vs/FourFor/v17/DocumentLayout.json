@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pontu\\Documents\\GitHub\\FourFor\\FourFor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6B9947-6087-963D-D22C-9FC7286430AD}|PurrNetLobbySetup.csproj|c:\\users\\pontu\\documents\\github\\fourfor\\fourfor\\assets\\purrlobby\\runtime\\misc\\ui\\sceneswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6B9947-6087-963D-D22C-9FC7286430AD}|PurrNetLobbySetup.csproj|solutionrelative:assets\\purrlobby\\runtime\\misc\\ui\\sceneswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DB8853-576E-0DB9-CFE0-3D6F749B3282}|Assembly-CSharp.csproj|C:\\Users\\pontu\\Documents\\GitHub\\FourFor\\FourFor\\assets\\3rd\\scripts\\playermovement1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DB8853-576E-0DB9-CFE0-3D6F749B3282}|Assembly-CSharp.csproj|solutionrelative:assets\\3rd\\scripts\\playermovement1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DB8853-576E-0DB9-CFE0-3D6F749B3282}|Assembly-CSharp.csproj|c:\\users\\pontu\\documents\\github\\fourfor\\fourfor\\assets\\3rd\\scripts\\camerarecentre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DB8853-576E-0DB9-CFE0-3D6F749B3282}|Assembly-CSharp.csproj|solutionrelative:assets\\3rd\\scripts\\camerarecentre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SceneSwitcher.cs",
+              "DocumentMoniker": "C:\\Users\\pontu\\Documents\\GitHub\\FourFor\\FourFor\\Assets\\PurrLobby\\Runtime\\Misc\\UI\\SceneSwitcher.cs",
+              "RelativeDocumentMoniker": "Assets\\PurrLobby\\Runtime\\Misc\\UI\\SceneSwitcher.cs",
+              "ToolTip": "C:\\Users\\pontu\\Documents\\GitHub\\FourFor\\FourFor\\Assets\\PurrLobby\\Runtime\\Misc\\UI\\SceneSwitcher.cs",
+              "RelativeToolTip": "Assets\\PurrLobby\\Runtime\\Misc\\UI\\SceneSwitcher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T16:38:02.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CameraRecentre.cs",
+              "DocumentMoniker": "C:\\Users\\pontu\\Documents\\GitHub\\FourFor\\FourFor\\Assets\\3rd\\Scripts\\CameraRecentre.cs",
+              "RelativeDocumentMoniker": "Assets\\3rd\\Scripts\\CameraRecentre.cs",
+              "ToolTip": "C:\\Users\\pontu\\Documents\\GitHub\\FourFor\\FourFor\\Assets\\3rd\\Scripts\\CameraRecentre.cs",
+              "RelativeToolTip": "Assets\\3rd\\Scripts\\CameraRecentre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T15:58:46.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerMovement1.cs",
+              "DocumentMoniker": "C:\\Users\\pontu\\Documents\\GitHub\\FourFor\\FourFor\\Assets\\3rd\\Scripts\\PlayerMovement1.cs",
+              "RelativeDocumentMoniker": "Assets\\3rd\\Scripts\\PlayerMovement1.cs",
+              "ToolTip": "C:\\Users\\pontu\\Documents\\GitHub\\FourFor\\FourFor\\Assets\\3rd\\Scripts\\PlayerMovement1.cs",
+              "RelativeToolTip": "Assets\\3rd\\Scripts\\PlayerMovement1.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwCcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T15:47:36.191Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

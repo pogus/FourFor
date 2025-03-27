@@ -1,0 +1,400 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1743094265558018, "dur":20207, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1743094265578232, "dur":158, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1743094265578430, "dur":364, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1743094265579856, "dur":88, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743094265580086, "dur":61, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743094265580427, "dur":76, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743094265580828, "dur":102, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743094265581046, "dur":94, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743094265581196, "dur":65, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743094265581848, "dur":232, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/System.Buffers.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743094265582281, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743094265582799, "dur":74, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/pontu/Documents/GitHub/Builds/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743094265583219, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/pontu/Documents/GitHub/Builds/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":0, "ts":1743094265578820, "dur":4547, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1743094265583368, "dur":399876, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1743094265983245, "dur":288, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1743094265983680, "dur":2284, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1743094265579609, "dur":3768, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1743094265583384, "dur":4670, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1743094265607286, "dur":697, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":1, "ts":1743094265607988, "dur":110, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1743094265608118, "dur":82, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":1, "ts":1743094265608484, "dur":130, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\pontu\\Documents\\GitHub\\FourFor\\FourFor\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1743094265608616, "dur":374, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\pontu\\Documents\\GitHub\\FourFor\\FourFor\\Library\\Bee\\PlayerScriptAssemblies\\com.rlabrecque.steamworks.net.dll" }}
+,{ "pid":12345, "tid":1, "ts":1743094265608992, "dur":529, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\pontu\\Documents\\GitHub\\FourFor\\FourFor\\Library\\Bee\\PlayerScriptAssemblies\\PurrNet.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1743094265609523, "dur":445, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\pontu\\Documents\\GitHub\\FourFor\\FourFor\\Library\\Bee\\PlayerScriptAssemblies\\UniTask.dll" }}
+,{ "pid":12345, "tid":1, "ts":1743094265609969, "dur":459, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\pontu\\Documents\\GitHub\\FourFor\\FourFor\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1743094265610429, "dur":95, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\pontu\\Documents\\GitHub\\FourFor\\FourFor\\Library\\Bee\\PlayerScriptAssemblies\\PurrNet.Steam.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1743094265610525, "dur":87, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\pontu\\Documents\\GitHub\\FourFor\\FourFor\\Library\\Bee\\PlayerScriptAssemblies\\PurrNetLobby_Editor.dll" }}
+,{ "pid":12345, "tid":1, "ts":1743094265610613, "dur":104, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\pontu\\Documents\\GitHub\\FourFor\\FourFor\\Library\\Bee\\PlayerScriptAssemblies\\SimpleWebTransport.dll" }}
+,{ "pid":12345, "tid":1, "ts":1743094265610718, "dur":248, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\pontu\\Documents\\GitHub\\FourFor\\FourFor\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1743094265610967, "dur":450, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\pontu\\Documents\\GitHub\\FourFor\\FourFor\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":1, "ts":1743094265611418, "dur":316, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\pontu\\Documents\\GitHub\\FourFor\\FourFor\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":1, "ts":1743094265611735, "dur":138, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\pontu\\Documents\\GitHub\\FourFor\\FourFor\\Library\\Bee\\PlayerScriptAssemblies\\UniTask.DOTween.dll" }}
+,{ "pid":12345, "tid":1, "ts":1743094265611874, "dur":127, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\pontu\\Documents\\GitHub\\FourFor\\FourFor\\Library\\Bee\\PlayerScriptAssemblies\\UniTask.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1743094265612003, "dur":139, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\pontu\\Documents\\GitHub\\FourFor\\FourFor\\Library\\Bee\\PlayerScriptAssemblies\\PurrNetLobbySetup.dll" }}
+,{ "pid":12345, "tid":1, "ts":1743094265612144, "dur":332, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\pontu\\Documents\\GitHub\\FourFor\\FourFor\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1743094265612478, "dur":585, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\pontu\\Documents\\GitHub\\FourFor\\FourFor\\Library\\Bee\\PlayerScriptAssemblies\\UniTask.Linq.dll" }}
+,{ "pid":12345, "tid":1, "ts":1743094265613064, "dur":199, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\pontu\\Documents\\GitHub\\FourFor\\FourFor\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":1, "ts":1743094265613265, "dur":92, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\pontu\\Documents\\GitHub\\FourFor\\FourFor\\Library\\Bee\\PlayerScriptAssemblies\\UniTask.Addressables.dll" }}
+,{ "pid":12345, "tid":1, "ts":1743094265613359, "dur":339, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\pontu\\Documents\\GitHub\\FourFor\\FourFor\\Library\\Bee\\PlayerScriptAssemblies\\Cinemachine.dll" }}
+,{ "pid":12345, "tid":1, "ts":1743094265613699, "dur":165, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\pontu\\Documents\\GitHub\\FourFor\\FourFor\\Library\\Bee\\PlayerScriptAssemblies\\LiteNetLib.dll" }}
+,{ "pid":12345, "tid":1, "ts":1743094265613875, "dur":68, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.34f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\Facades\\System.Buffers.dll" }}
+,{ "pid":12345, "tid":1, "ts":1743094265613992, "dur":115, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Playercf979704-inputdata.json" }}
+,{ "pid":12345, "tid":1, "ts":1743094265607986, "dur":6295, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1743094265614622, "dur":63, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1743094265615280, "dur":361877, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1743094265982136, "dur":103, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1743094265982135, "dur":105, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1743094265982260, "dur":934, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1743094265580878, "dur":2519, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743094265583405, "dur":977, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743094265584382, "dur":758, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743094265585140, "dur":2997, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743094265588137, "dur":121, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/pontu/Documents/GitHub/Builds/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1743094265619523, "dur":2085, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1743094265621720, "dur":161, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743094265621925, "dur":3590, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/PurrNetLobby_Editor.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743094265625583, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743094265625657, "dur":9350, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743094265635092, "dur":1308, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743094265636423, "dur":28106, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743094265664591, "dur":176, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743094265664786, "dur":66603, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743094265731445, "dur":67, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743094265731523, "dur":1300, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743094265732827, "dur":10721, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743094265743611, "dur":115, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743094265743790, "dur":6612, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743094265750456, "dur":211, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743094265750683, "dur":8682, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743094265759428, "dur":250, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PackageCache\\com.rlabrecque.steamworks.net@a2fc889ab2\\Plugins\\steam_api64.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743094265759427, "dur":318, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Plugins/x86_64/steam_api64.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743094265759746, "dur":62, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743094265759815, "dur":59, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743094265761480, "dur":2525, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Plugins/x86_64/steam_api64.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743094265764067, "dur":8751, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":2, "ts":1743094265772884, "dur":1089, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743094265774002, "dur":8899, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":2, "ts":1743094265782968, "dur":9197, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/level1.resS" }}
+,{ "pid":12345, "tid":2, "ts":1743094265792272, "dur":190965, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743094265582524, "dur":907, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743094265583441, "dur":1281, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743094265584723, "dur":3357, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743094265588081, "dur":226, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/pontu/Documents/GitHub/Builds/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1743094265597499, "dur":1180, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1743094265599112, "dur":3661, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743094265602822, "dur":580, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743094265603438, "dur":1148, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743094265604655, "dur":83, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743094265606705, "dur":53, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743094265604774, "dur":1993, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743094265606885, "dur":2468, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743094265609482, "dur":2328, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743094265611918, "dur":1940, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/System.Buffers.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743094265613988, "dur":1458, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743094265619281, "dur":85, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743094265615566, "dur":3809, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743094265619478, "dur":289, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743094265623323, "dur":74, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743094265619786, "dur":3622, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743094265623478, "dur":63, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743094265623557, "dur":8407, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/PurrNet.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743094265632022, "dur":1892, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743094265633933, "dur":11626, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743094265645613, "dur":15577, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743094265661226, "dur":82778, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743094265744057, "dur":499, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743094265744578, "dur":6634, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743094265751266, "dur":1104, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743094265752401, "dur":9986, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743094265762452, "dur":8326, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":3, "ts":1743094265788206, "dur":126, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743094265771272, "dur":17079, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":3, "ts":1743094265793098, "dur":81, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743094265788574, "dur":4615, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/level0.resS" }}
+,{ "pid":12345, "tid":3, "ts":1743094265793387, "dur":189927, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1743094265580283, "dur":3104, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1743094265583393, "dur":1070, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1743094265584463, "dur":3611, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1743094265588075, "dur":152, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/pontu/Documents/GitHub/Builds/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":4, "ts":1743094265596374, "dur":1037, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":4, "ts":1743094265597469, "dur":53, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Temp\\StagingArea\\WindowsPlayer.exe" }}
+,{ "pid":12345, "tid":4, "ts":1743094265597468, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/pontu/Documents/GitHub/Builds/FourFor.exe" }}
+,{ "pid":12345, "tid":4, "ts":1743094265597562, "dur":1388, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor.exe" }}
+,{ "pid":12345, "tid":4, "ts":1743094265599213, "dur":3190, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743094265602504, "dur":1629, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743094265604188, "dur":66, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1743094265604273, "dur":2108, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743094265606441, "dur":196, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1743094265606658, "dur":1535, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743094265608331, "dur":2415, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743094265610871, "dur":2250, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743094265613207, "dur":1868, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/K4os.Compression.LZ4.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743094265615177, "dur":2448, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/LiteNetLib.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743094265617738, "dur":2480, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UniTask.Linq.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743094265620265, "dur":125, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1743094265620406, "dur":4825, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743094265625323, "dur":216, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743094265625540, "dur":99, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1743094265625661, "dur":8037, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743094265633762, "dur":449, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.34f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743094265633761, "dur":451, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743094265634214, "dur":217, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1743094265634523, "dur":9812, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743094265644387, "dur":82, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1743094265644484, "dur":53501, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743094265698037, "dur":92, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1743094265698150, "dur":36739, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743094265734953, "dur":3159, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1743094265738262, "dur":4757, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743094265743086, "dur":95, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1743094265743201, "dur":7827, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743094265751094, "dur":1277, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1743094265752406, "dur":7685, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743094265760141, "dur":7048, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.34f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityPlayer.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743094265760139, "dur":7053, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/pontu/Documents/GitHub/Builds/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743094265767271, "dur":21307, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743094265788862, "dur":6852, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/level0" }}
+,{ "pid":12345, "tid":4, "ts":1743094265796063, "dur":187200, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1743094265581414, "dur":1993, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1743094265583415, "dur":1069, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1743094265584485, "dur":3576, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1743094265588078, "dur":92, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1743094265589023, "dur":1542, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/app.info" }}
+,{ "pid":12345, "tid":5, "ts":1743094265590567, "dur":88, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/pontu/Documents/GitHub/Builds/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1743094265591116, "dur":809, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1743094265591967, "dur":84, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/pontu/Documents/GitHub/Builds/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":5, "ts":1743094265592213, "dur":1352, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":5, "ts":1743094265593612, "dur":83, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/pontu/Documents/GitHub/Builds/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1743094265593758, "dur":867, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1743094265594660, "dur":61, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/pontu/Documents/GitHub/Builds/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":5, "ts":1743094265594755, "dur":749, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":5, "ts":1743094265595539, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/pontu/Documents/GitHub/Builds/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1743094265595815, "dur":1068, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1743094265596933, "dur":99, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.34f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":5, "ts":1743094265596931, "dur":102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/pontu/Documents/GitHub/Builds/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":5, "ts":1743094265597209, "dur":4532, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":5, "ts":1743094265601951, "dur":2265, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":5, "ts":1743094265604321, "dur":1468, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":5, "ts":1743094265605908, "dur":1320, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":5, "ts":1743094265607283, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1743094265607375, "dur":1782, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":5, "ts":1743094265609273, "dur":1801, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":5, "ts":1743094265611128, "dur":78, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1743094265611225, "dur":1543, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/System.Memory.dll" }}
+,{ "pid":12345, "tid":5, "ts":1743094265612824, "dur":264, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1743094265613108, "dur":2173, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":5, "ts":1743094265615376, "dur":2811, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/Cinemachine.dll" }}
+,{ "pid":12345, "tid":5, "ts":1743094265618242, "dur":117, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1743094265618377, "dur":3804, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/PurrNetLobbySetup.dll" }}
+,{ "pid":12345, "tid":5, "ts":1743094265622226, "dur":235, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1743094265622489, "dur":3778, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":5, "ts":1743094265626337, "dur":302, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1743094265626655, "dur":9869, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1743094265636577, "dur":608, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1743094265637202, "dur":27016, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1743094265664270, "dur":200, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1743094265664540, "dur":17191, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1743094265681786, "dur":14681, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1743094265696656, "dur":25446, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1743094265722405, "dur":1465, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1743094265723902, "dur":14954, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1743094265738928, "dur":1168, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1743094265740125, "dur":4607, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1743094265744778, "dur":73, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1743094265744872, "dur":8073, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1743094265753092, "dur":27778, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1743094265781391, "dur":8978, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/resources.assets" }}
+,{ "pid":12345, "tid":5, "ts":1743094265790416, "dur":192826, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1743094265581936, "dur":1481, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1743094265583424, "dur":1017, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1743094265584441, "dur":3621, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1743094265588081, "dur":171, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.34f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":6, "ts":1743094265588070, "dur":183, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/pontu/Documents/GitHub/Builds/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":6, "ts":1743094265616582, "dur":2379, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":6, "ts":1743094265619029, "dur":497, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1743094265619566, "dur":3963, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UniTask.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":6, "ts":1743094265623626, "dur":68, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1743094265623917, "dur":4738, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/com.rlabrecque.steamworks.net.dll" }}
+,{ "pid":12345, "tid":6, "ts":1743094265628714, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1743094265628854, "dur":34777, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1743094265663686, "dur":97, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1743094265663799, "dur":77844, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1743094265741730, "dur":105, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1743094265746645, "dur":58, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1743094265741855, "dur":4868, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1743094265746802, "dur":643, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1743094265747473, "dur":6170, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1743094265753701, "dur":216, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1743094265753938, "dur":39194, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1743094265793215, "dur":190030, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1743094265583057, "dur":389, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1743094265583447, "dur":1221, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1743094265584669, "dur":3406, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1743094265588076, "dur":132, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/pontu/Documents/GitHub/Builds/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":7, "ts":1743094265588209, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1743094265589769, "dur":1039, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":7, "ts":1743094265590840, "dur":62, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.34f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1743094265590839, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/pontu/Documents/GitHub/Builds/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1743094265591170, "dur":874, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1743094265592076, "dur":61, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/pontu/Documents/GitHub/Builds/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1743094265592512, "dur":704, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1743094265593269, "dur":106, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.34f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
+,{ "pid":12345, "tid":7, "ts":1743094265593267, "dur":109, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/pontu/Documents/GitHub/Builds/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":7, "ts":1743094265593647, "dur":943, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":7, "ts":1743094265594638, "dur":79, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.34f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1743094265594637, "dur":81, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/pontu/Documents/GitHub/Builds/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1743094265594759, "dur":1058, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1743094265595866, "dur":128, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.34f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":7, "ts":1743094265595864, "dur":131, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/pontu/Documents/GitHub/Builds/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":7, "ts":1743094265596329, "dur":1384, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":7, "ts":1743094265597760, "dur":95, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":7, "ts":1743094265597857, "dur":86, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1743094265598361, "dur":3387, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":7, "ts":1743094265601945, "dur":1766, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":7, "ts":1743094265603812, "dur":1288, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1743094265605170, "dur":99, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1743094265605308, "dur":1869, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":7, "ts":1743094265607258, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1743094265607328, "dur":3146, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":7, "ts":1743094265610533, "dur":178, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1743094265610731, "dur":1964, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1743094265612772, "dur":579, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1743094265613398, "dur":1961, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/System.Runtime.CompilerServices.Unsafe.dll" }}
+,{ "pid":12345, "tid":7, "ts":1743094265615482, "dur":2688, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UniTask.Addressables.dll" }}
+,{ "pid":12345, "tid":7, "ts":1743094265618220, "dur":388, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1743094265618622, "dur":3681, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":7, "ts":1743094265622373, "dur":86, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1743094265622478, "dur":5387, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UniTask.dll" }}
+,{ "pid":12345, "tid":7, "ts":1743094265627925, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1743094265627993, "dur":9368, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1743094265637411, "dur":162, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1743094265637582, "dur":628, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1743094265698428, "dur":87, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1743094265638213, "dur":60313, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1743094265698692, "dur":33033, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1743094265731787, "dur":221, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1743094265732057, "dur":10959, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1743094265743692, "dur":138, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1743094265743847, "dur":5180, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1743094265749142, "dur":89, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1743094265749267, "dur":8763, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1743094265763045, "dur":107, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1743094265758205, "dur":4956, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1743094265763365, "dur":31192, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1743094265794631, "dur":188674, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1743094265583634, "dur":1104, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1743094265584739, "dur":3339, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1743094265588088, "dur":244, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.34f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":8, "ts":1743094265588079, "dur":254, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/pontu/Documents/GitHub/Builds/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1743094265617189, "dur":1820, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1743094265619103, "dur":80, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1743094265619192, "dur":110, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1743094265619305, "dur":4723, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UniTask.DOTween.dll" }}
+,{ "pid":12345, "tid":8, "ts":1743094265624081, "dur":182, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1743094265624282, "dur":13037, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":8, "ts":1743094265637372, "dur":126, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1743094265637514, "dur":59535, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1743094265697110, "dur":688, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1743094265697821, "dur":41349, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1743094265739276, "dur":821, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1743094265740167, "dur":8318, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1743094265748555, "dur":258, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1743094265748846, "dur":6935, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1743094265755895, "dur":758, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1743094265756681, "dur":33630, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1743094265790373, "dur":4429, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":8, "ts":1743094265794846, "dur":188447, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1743094265584421, "dur":324, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1743094265584745, "dur":3338, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1743094265588101, "dur":138, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.34f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":9, "ts":1743094265588084, "dur":156, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/pontu/Documents/GitHub/Builds/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":9, "ts":1743094265588241, "dur":78, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1743094265622775, "dur":3261, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":9, "ts":1743094265626106, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1743094265626274, "dur":13766, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1743094265640093, "dur":2278, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1743094265642463, "dur":38799, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1743094265681342, "dur":4158, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1743094265685533, "dur":53778, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1743094265739373, "dur":724, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1743094265740132, "dur":4511, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1743094265744888, "dur":272, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1743094265745250, "dur":5338, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1743094265750650, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1743094265750719, "dur":9916, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1743094265760791, "dur":28669, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":9, "ts":1743094265789549, "dur":5860, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":9, "ts":1743094265795508, "dur":187771, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1743094265585081, "dur":3010, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1743094265588092, "dur":265, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/pontu/Documents/GitHub/Builds/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":10, "ts":1743094265617914, "dur":2040, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":10, "ts":1743094265620078, "dur":5026, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":10, "ts":1743094265625151, "dur":119, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1743094265625284, "dur":3337, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":10, "ts":1743094265628678, "dur":83, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1743094265628847, "dur":13922, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1743094265642840, "dur":1362, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1743094265644219, "dur":94128, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1743094265738415, "dur":218, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1743094265738654, "dur":6134, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1743094265745065, "dur":8152, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1743094265753273, "dur":131, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1743094265753423, "dur":25383, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1743094265778964, "dur":1255, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":10, "ts":1743094265780306, "dur":2770, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":10, "ts":1743094265783136, "dur":56, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1743094265783194, "dur":6775, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/level1" }}
+,{ "pid":12345, "tid":10, "ts":1743094265795381, "dur":701, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1743094265790059, "dur":6033, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":10, "ts":1743094265796159, "dur":187092, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1743094265585583, "dur":2555, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1743094265588148, "dur":111, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.34f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":11, "ts":1743094265588140, "dur":120, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/pontu/Documents/GitHub/Builds/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":11, "ts":1743094265620387, "dur":1179, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":11, "ts":1743094265621635, "dur":111, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1743094265621767, "dur":4297, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/SimpleWebTransport.dll" }}
+,{ "pid":12345, "tid":11, "ts":1743094265626268, "dur":5027, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1743094265631358, "dur":2108, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1743094265633496, "dur":40334, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1743094265673888, "dur":6702, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1743094265698494, "dur":677, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1743094265680615, "dur":18566, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1743094265699239, "dur":10356, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1743094265709632, "dur":25555, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1743094265735245, "dur":2866, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1743094265738269, "dur":5426, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1743094265743819, "dur":71, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1743094265743907, "dur":9384, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1743094265753349, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1743094265791508, "dur":249, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1743094265753427, "dur":38344, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1743094265791860, "dur":191381, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1743094265586123, "dur":1946, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1743094265588090, "dur":181, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.34f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":12, "ts":1743094265588071, "dur":201, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/pontu/Documents/GitHub/Builds/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":12, "ts":1743094265620631, "dur":1398, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":12, "ts":1743094265622091, "dur":371, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1743094265622508, "dur":4650, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/PurrNet.Steam.Runtime.dll" }}
+,{ "pid":12345, "tid":12, "ts":1743094265627216, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1743094265627286, "dur":6364, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1743094265633731, "dur":290, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1743094265680282, "dur":54, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1743094265634054, "dur":46298, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1743094265680514, "dur":72, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1743094265680611, "dur":51224, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1743094265731895, "dur":114, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1743094265732018, "dur":75, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1743094265732096, "dur":10505, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1743094265742655, "dur":80, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1743094265742757, "dur":5740, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1743094265748679, "dur":132, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1743094265748838, "dur":9478, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1743094265758372, "dur":1112, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1743094265759502, "dur":33835, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/pontu/Documents/GitHub/Builds/FourFor_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1743094265793444, "dur":189796, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1743094265989377, "dur":1299, "ph":"X", "name": "ProfilerWriteOutput" }
+,
